@@ -1,6 +1,7 @@
 # stringsandwings.github.io
 
-A portfolio of my work featuring a collection of poems, illustrations and maps.
+<<<<<<< HEAD
+This is intended to be a personal website to showcase my portfolio of art, literature and cartography.
 
 This site is a work-in-progress. Please check it out again soon! :)
 
